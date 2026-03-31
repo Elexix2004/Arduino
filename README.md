@@ -1,9 +1,7 @@
 # 🔐 Pin Generating Security System (VAULT)
 
 ## 📌 Overview
-VAULT is an Arduino-based security solution that generates a **cyclic PIN every 30 seconds**, encrypts it, and transmits it via Bluetooth to an Android application. The system eliminates the need for physical keys or remembering multiple PINs, offering enhanced convenience and security.  
-
-This project was developed as part of **Innovative Projects using Arduino (ECE2010)** by Group IPA 30.
+VAULT is an Arduino-based security solution that generates a **cyclic PIN every 30 seconds**, encrypts it, and transmits it via Bluetooth to an Android application. The system eliminates the need for physical keys or remembering multiple PINs, offering enhanced convenience and security. 
 
 ---
 
